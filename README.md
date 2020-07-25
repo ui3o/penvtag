@@ -15,6 +15,8 @@ Tag a linux process easily with environment variable. Tag definition is `t=`
 
 * `pegrep sleeptag` grep exact mach
 * `pegrep tail` grep group mach
+* `pekill sleeptag` kill exact mach
+* `pekill tail` kill group mach
 
 # Install
 
