@@ -1,9 +1,9 @@
 # penvtag
-TAG a process. List and kill tagged process.
+TAG one or more process. List or kill tagged process/es.
 
 # Descrition
 
-Tag a linux process easily with environment variable. Tag definition is `t=`
+Tag one or more linux process easily with environment variable. Tag definition is `t=`
 
 # Example
 
