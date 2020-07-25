@@ -22,3 +22,7 @@ Tag a linux process easily with environment variable. Tag definition is `t=`
 
 * git clone https://github.com/ui3o/penvtag
 * export PATH=$PATH:/path/to/cloned/repo/penvtag
+
+# Troubleshoot
+
+* Process not listed: to read a process environment variables make sure zou ha right privilege 
