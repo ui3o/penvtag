@@ -25,4 +25,4 @@ Tag a linux process easily with environment variable. Tag definition is `t=`
 
 # Troubleshoot
 
-* Process not listed: to read a process environment variables make sure zou ha right privilege 
+* Process not listed: to read a process environment variables make sure you have right privilege 
